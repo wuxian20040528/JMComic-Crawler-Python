@@ -8,9 +8,6 @@ client:
   domain:
     html: [ jmcomic1.me, jmcomic.me ]
 
-pdf:
-  option: '是 | 本子维度合并pdf'
-  
 # 插件配置
 plugins:
   after_init:
