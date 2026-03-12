@@ -8,6 +8,12 @@ client:
   domain:
     html: [ jmcomic1.me, jmcomic.me ]
 
+image:
+  suffix: .jpg # 把图片都转为.jpg格式，默认为null，表示不转换。
+
+pdf:
+  option: '是 | 本子维度合并pdf'
+  
 # 插件配置
 plugins:
   after_init:
